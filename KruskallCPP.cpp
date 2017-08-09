@@ -1,6 +1,7 @@
 #include <Rcpp.h>
 using namespace Rcpp;
 
+//Informações sobre a função kruskalcpp
 //kruskalcpp é uma função codificada em C++ e tem como objetivo realizar o teste Kruskal Wallis presente na linguagem R.
 //A entrada da função kruskalcpp é uma matriz.
 //Sua saída é um vetor com dimensão equivalente a diferença entre o número de colunas da matriz de entrada menos 1 (nº de colunas - 1).
