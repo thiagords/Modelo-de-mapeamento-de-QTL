@@ -1,7 +1,7 @@
 Projeto
   Ciração de modelo de mapeamento de QTL através de algoritmos desenvolvidos em R e C++.
   
-Pré-requesitos
+Pré-requisitos
   Software "R"" superior ou igual a vesão 3.0.0.
   Biblioteca "Rcpp"" instalada no pacote R.
   Biblioteca "devtools" instalada no pacote R.
