@@ -1,0 +1,16 @@
+Projeto
+  Ciração de modelo de mapeamento de QTL através de algoritmos desenvolvidos em R e C++.
+  
+Pré-requesitos
+  Software "R"" superior ou igual a vesão 3.0.0.
+  Biblioteca "Rcpp"" instalada no pacote R.
+  Biblioteca "devtools" instalada no pacote R.
+
+Funcionalidades
+  KruskallCPP.cpp: 
+    * possui a função "kruskalcpp" responsável por realizar o teste Kruskal Wallis, seu argumento de entrada é        uma matriz, onde sua primeira coluna corresponde a um determinado fenótipo e as demais a genótipos.
+
+Autores
+  Prof. Dr. Luis A. Milan
+  Profª. Drª. Daiane Aparecida Zuanetti
+  Thiago Reis de Sousa
